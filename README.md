@@ -12,7 +12,7 @@ Our app puts heavy emphasis on people's personalities before pairing them with s
 
 1. To setup you will need npm installed. To install npm, use this link: <https://www.npmjs.com/get-npm>
 2. Clone our project by using 'git clone https://github.com/Faiyaz42/FindAPeer.git' from a command line / terminal.
-3. Navigate into the downloaded folder by using 'cd CalgaryHacks/'
+3. Navigate into the downloaded folder by using 'cd FindAPeer'
 4. Run the npm install command 'npm i' - This may take a bit of time but only needs to be done once.
-5. Run the app on a local host by using 'npm run'
+5. Run the app on a local host by using 'npm start'
 6. Profit!
