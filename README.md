@@ -8,6 +8,8 @@ Our app puts heavy emphasis on people's personalities before pairing them with s
 
 ## Demo - https://youtu.be/jmUwmNiifkk
 
+## NOTE : THIS IS STILL A WORK IN-PROGRESS,AS A RESULT SOME OF THE FEATURES ARE ABSENT OR DO NOT WORK.
+
 ## Setting up
 
 1. To setup you will need npm installed. To install npm, use this link: <https://www.npmjs.com/get-npm>
