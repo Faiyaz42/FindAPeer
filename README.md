@@ -17,4 +17,5 @@ Our app puts heavy emphasis on people's personalities before pairing them with s
 3. Navigate into the downloaded folder by using 'cd FindAPeer'
 4. Run the npm install command 'npm i' - This may take a bit of time but only needs to be done once.
 5. Run the app on a local host by using 'npm start'
-6. Profit!
+6. Reload the page and use our test account (email: test69@mail.com | password: 1234567890) to log in and explore.  
+7. Profit!
