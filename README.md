@@ -4,7 +4,7 @@ The recent Covid-19 pandemic has had significant psychological and social effect
 
 While there are many social media applications for people to communicate over,however,none of them empahsizes people's personalities when pairing them with someone else.As a result,the two users have a hard time getting along which could lead to frustrations and further exacerbate the feeling of loneliness.
 
-Our app puts heavy emphasis on people's personalities and pairs them with users with a similar personality profile.Therefore,right off the bat the two users do not feel like they are talking to a total stranger but somneone who share similar interests and understandings.We have additional features that enable the users to break the ice and talk more freely about their favourite hobbies,places to visit,food etc.
+Our app puts heavy emphasis on people's personalities and pairs them with users with a similar personality profile.Therefore,right off the bat the two users do not feel like they are talking to a total stranger but someone who shares similar interests and understandings.We have additional features that enable the users to break the ice and talk more freely about their favourite hobbies,places to visit,food etc.
 
 ## Demo - https://youtu.be/jmUwmNiifkk
 
